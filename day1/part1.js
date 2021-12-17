@@ -38,7 +38,6 @@ const main = async () => {
             change = changeState.DECREASE
         }
 
-
         data.push(
             {
                 index: index,
